@@ -1,6 +1,8 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-
+## Name: Tanessha Kannan
+## Register Number: 212223040225
+## Date: 17.10.2024
 ## Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 
@@ -61,8 +63,7 @@ printf("enter the string\n"); yyparse();
 }
 ```
 ## OUTPUT
-
-![Screenshot_from_2024-10-22_10-16-36 1](https://github.com/user-attachments/assets/12eaed1e-fd48-44e3-a593-e4b9b49f23d1)
+![380965464-9946c121-b2b0-49b4-bf93-46537be0814e](https://github.com/user-attachments/assets/88cfac05-44be-4cb6-955c-9e49224c1312)
 
 ## RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
